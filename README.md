@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarandeep Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=popins&color=36C3F7&center=true&lines=A+passionate+frontend+developer+from+India)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=5500&center=true&width=1200&lines=A+passionate+frontend+developer+from+India+...)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarandeep-s1ngh&label=Profile%20views&color=0e75b6&style=flat" alt="tarandeep-s1ngh" /> </p>
 
