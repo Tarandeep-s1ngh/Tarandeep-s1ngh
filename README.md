@@ -24,6 +24,7 @@
 <a href="https://linkedin.com/in/tarandeep-s1ngh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarandeep-s1ngh" height="30" width="40" /></a>
 <a href="https://instagram.com/taran.16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="taran.16" height="30" width="40" /></a>
 <a href="https://hashnode.com/@taran16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@taran16" height="30" width="40" /></a>
+  <a href="https://hashnode.com/@taran16" target="blank"><img align="center" src="/assets/hashnodeSvg.svg" alt="@taran16" height="30" width="40" /></a>
   <a href="https://dev.to/tarandeep_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tarandeep_singh" height="30" width="40" /></a>
 </p>
 
